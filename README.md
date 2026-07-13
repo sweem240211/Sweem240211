@@ -299,7 +299,7 @@
         <a href="https://github.com/Sweem240211/Sweem240211"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Sweem240211&repo=Sweem240211&theme=buefy" alt="Sweem240211" /></a>
     </td>
     <td align="center" width="50%">
-        <a href="https://github.com/Sweem240211/Keyforge"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Sweem240211&repo=Keyforge&theme=buefy" alt="Sweem240211" /></a>
+        <a href="https://github.com/Sweem240211/Sweem240211.github.io"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Sweem240211&repo=Sweem240211.github.io&theme=buefy" alt="Sweem240211" /></a>
     </td>
   </tr>
 </table>
