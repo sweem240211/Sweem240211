@@ -268,7 +268,7 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Sweem240211&show_icons=true&theme=buefy" alt="Sweem240211" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=Sweem240211&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="Sweem240211" /></a>
     </td>
     <td align="center" width="60%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sweem240211&theme=buefy" alt="Sweem240211" /></a>
